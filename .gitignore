@@ -18,6 +18,7 @@ bin/
 *.iml
 *.iws
 .env
+src/main/resources/.application.properties
 # NetBeans
 nb-configuration.xml
 
